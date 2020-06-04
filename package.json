@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "dev":"parcel index.html"
+  },
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^3.1.2",
+    "typescript": "^3.9.3",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "dependencies": {
+    "vue": "^2.6.11",
+    "vue-hot-reload-api": "^2.3.4"
+  }
+}
