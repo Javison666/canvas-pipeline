@@ -2,7 +2,6 @@
 
 ## 效果
 ![Image text](./pipeline.gif)
-![Image text](./pipeline.gif)
 
 ## demo基于[Parcel](https://parceljs.org/getting_started.html)
 
